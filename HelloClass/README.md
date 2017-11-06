@@ -25,7 +25,7 @@ This program is worth 15 points.
 
 *    Get 2 points for including appropriate comments.
 *    Get 2 points for using C++ IO Streams and getline for your input and output.
-    Get 2 points for prompting the user to enter the temperature. Remember to tell them what temperature scale to use!
-    Get 2 point for reading the temperature into a floating point variable.
-    Get 5 points for comparing the temperature to a threshold of your choice.
-    Get 2 point for outputing a message about the entered temperature.
+*    Get 2 points for prompting the user to enter the temperature. Remember to tell them what temperature scale to use!
+*   Get 5 points for reading input until the read is unsuccessful.
+*    Get 2 points for outputting a greeting that includes thename that was read.
+*    Get 2 points for writing the greeting to each name after it was read instead of storing all of the names to greet at once.
